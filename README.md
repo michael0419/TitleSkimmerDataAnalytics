@@ -6,3 +6,6 @@
 [News Category Dataset](https://www.kaggle.com/rmisra/news-category-dataset)  
 [BBC news dataset](https://www.kaggle.com/hgultekin/bbcnewsarchive)  
 [Clickbait dataset](https://www.kaggle.com/amananandrai/clickbait-dataset)
+
+### Files of interest in chronological order
+HuffingtonModelBuild.ipynb
