@@ -8,5 +8,4 @@
 [Clickbait dataset](https://www.kaggle.com/amananandrai/clickbait-dataset)
 
 ### Files of interest in chronological order  
-HuffingtonPostExploratory.ipynb  
-HuffingtonModelBuild.ipynb  
+HuffingtonPostExploratory.ipynb  -> HuffingtonModelBuild.ipynb  
