@@ -1,5 +1,5 @@
 # About
-### This is a data explorattory and model building repository for me to perform some data analytics for Title Skimmer  
+### This is a data exploratory and model building repository for me to perform some data analytics for Title Skimmer  
 [Full Title Skimmer Project](https://github.com/michael0419/TitleSkimmer)
 
 ### Sources for data can be found on Kaggle
